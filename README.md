@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🧔 My name is Tiago, I'm a .net back-end developer\
-🌱 Learning Python\
 📖 Been reading about clean code and best practices\
 👷‍♂️ Creating solutions with Azure
 
